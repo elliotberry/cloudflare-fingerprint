@@ -1,0 +1,14 @@
+{
+    "private": true,
+    "name": "cf-fingerprint",
+    "version": "1.0.0",
+    "description": "",
+    "main": "script.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "format": "prettier --write '**/*.{js,css,json,md}'"
+    },
+    "author": "Elliot Berry <elliot@email.gd>",
+    "license": "MIT"
+  }
+  
